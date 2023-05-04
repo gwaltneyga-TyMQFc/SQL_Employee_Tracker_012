@@ -1,0 +1,31 @@
+{
+  "name": "sql_employee_tracker_012",
+  "version": "1.0.0",
+  "description": "GNU v.3 Licensed code Working to create a malleable employee database.",
+  "main": "employeeTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwaltneyga-TyMQFc/SQL_Employee_Tracker_012.git"
+  },
+  "keywords": [
+    "npm",
+    "i",
+    "inquirer@8.2.4",
+    "npm",
+    "run",
+    "seed",
+    "npm",
+    "install",
+    "console.table",
+    "--save"
+  ],
+  "author": "Gregory A. Gwaltney",
+  "license": "GNU v3",
+  "bugs": {
+    "url": "https://github.com/gwaltneyga-TyMQFc/SQL_Employee_Tracker_012/issues"
+  },
+  "homepage": "https://github.com/gwaltneyga-TyMQFc/SQL_Employee_Tracker_012#readme"
+}
